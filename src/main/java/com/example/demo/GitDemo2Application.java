@@ -12,7 +12,7 @@ public class GitDemo2Application {
 	@GetMapping("/getMassage")
 	public String get()
 	{
-		return "This is how it works...";
+		return "This is how it works.........";
 	}
 	
 	public static void main(String[] args) {
